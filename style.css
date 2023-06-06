@@ -1671,22 +1671,22 @@ hr.rounded {
   list-style: none;
   top: 5410px;
 }
- 
+
 .contact {
   margin: 103px 24px 0 24px;
   border-radius: 50px 0 0 0;
   list-style: none;
   padding-left: 24px;
 }
-  
-h2 {
+
+#h2 {
   font-family: 'Poppins', sans-serif;
   color: white;
   margin-top: 40px;
   text-align: center;
   list-style: none;
 }
-  
+
 .contact p {
   font-family: 'Poppins', sans-serif;
   color: #fff;
@@ -1695,7 +1695,7 @@ h2 {
   text-align: center;
   list-style: none;
 }
-  
+
 .form {
   display: flex;
   flex-direction: column;
@@ -1704,14 +1704,14 @@ h2 {
   gap: 20px;
   list-style: none;
 }
-  
-textarea {
+
+#textarea {
   background: hsl(0, 0%, 100%);
   width: 200px;
   height: 170px;
   padding: 10px;
   border: 1px solid hsl(198, 16%, 84%);
-  list-style: none; 
+  list-style: none;
 }
   
 .types {
@@ -1723,7 +1723,7 @@ textarea {
   font-style: normal;
   list-style: none;
 }
-  
+
 .form-group input {
   background-color: #fff;
   border-radius: 1px;
@@ -1734,7 +1734,7 @@ textarea {
   padding: 10px;
   list-style: none;
 }
-  
+
 .form-group textarea {
   background-color: #fff;
   border-radius: 8px;
@@ -1745,7 +1745,7 @@ textarea {
   padding: 10px;
   list-style: none;
 }
-  
+
 .form-group .btn-input {
   background-color: #f4f4f5;
   color: #6070ff;
@@ -1763,25 +1763,24 @@ textarea {
   line-height: 24px;
   list-style: none;
 }
-  
+
 .form-group .btn-input:hover {
   background-color: #6070ff;
   color: #fff;
   letter-spacing: 0.03em;
   list-style: none;
 }
-  
+
 .form-group .btn-input:active {
   background-color: #2230d2;
   color: #fff;
   letter-spacing: 0.03em;
   list-style: none;
 }
-  
+
 .form-group .btn-input:focus {
   background-color: #13141a;
   color: #fff;
   letter-spacing: 0.03em;
   list-style: none;
 }
-  
