@@ -1648,8 +1648,7 @@ hr.rounded {
 #consection {
   display: flex;
   flex-direction: column;
-  justify-content:space-between;
-  box-sizing: border-box;
+  justify-content: space-between;
   width: 375px;
   height: 779px;
   margin: 0;
