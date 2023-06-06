@@ -1,3 +1,20 @@
-p {
-    color:brown
+.form1 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 52px;
+    margin-bottom: 0;
+    gap: 20px;
+    list-style: none;
 }
+
+.types {
+    color: #172b4d;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    font-style: normal;
+    list-style: none;
+}
+
+
