@@ -1673,115 +1673,115 @@ hr.rounded {
 }
  
 .contact {
-    margin: 103px 24px 0 24px;
-    border-radius: 50px 0 0 0;
-    list-style: none;
-    padding-left: 24px;
+  margin: 103px 24px 0 24px;
+  border-radius: 50px 0 0 0;
+  list-style: none;
+  padding-left: 24px;
 }
   
 h2 {
-    font-family: 'Poppins', sans-serif;
-    color: white;
-    margin-top: 40px;
-    text-align: center;
-    list-style: none;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  margin-top: 40px;
+  text-align: center;
+  list-style: none;
 }
   
 .contact p {
-    font-family: 'Poppins', sans-serif;
-    color: #fff;
-    margin-left: 10px;
-    margin-right: 10px;
-    text-align: center;
-    list-style: none;
+  font-family: 'Poppins', sans-serif;
+  color: #fff;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
+  list-style: none;
 }
   
 .form {
-    display: flex;
-    flex-direction: column;
-    margin-top: 52px;
-    margin-bottom: 0;
-    gap: 20px;
-    list-style: none;
+  display: flex;
+  flex-direction: column;
+  margin-top: 52px;
+  margin-bottom: 0;
+  gap: 20px;
+  list-style: none;
 }
   
 textarea {
-    background: hsl(0, 0%, 100%);
-    width: 200px;
-    height: 170px;
-    padding: 10px;
-    border: 1px solid hsl(198, 16%, 84%);
-    list-style: none; 
+  background: hsl(0, 0%, 100%);
+  width: 200px;
+  height: 170px;
+  padding: 10px;
+  border: 1px solid hsl(198, 16%, 84%);
+  list-style: none; 
 }
   
 .types {
-    color: #172b4d;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 400;
-    font-size: 17px;
-    line-height: 20px;
-    font-style: normal;
-    list-style: none;
+  color: #172b4d;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  font-style: normal;
+  list-style: none;
 }
   
 .form-group input {
-    background-color: #fff;
-    border-radius: 1px;
-    border: 1px solid #cfd8dc;
-    width: 90%;
-    height: 48px;
-    margin-bottom: 12px;
-    padding: 10px;
-    list-style: none;
+  background-color: #fff;
+  border-radius: 1px;
+  border: 1px solid #cfd8dc;
+  width: 90%;
+  height: 48px;
+  margin-bottom: 12px;
+  padding: 10px;
+  list-style: none;
 }
   
 .form-group textarea {
-    background-color: #fff;
-    border-radius: 8px;
-    border: none;
-    width: 90%;
-    height: 140px;
-    margin-bottom: 4px;
-    padding: 10px;
-    list-style: none;
+  background-color: #fff;
+  border-radius: 8px;
+  border: none;
+  width: 90%;
+  height: 140px;
+  margin-bottom: 4px;
+  padding: 10px;
+  list-style: none;
 }
   
 .form-group .btn-input {
-    background-color: #f4f4f5;
-    color: #6070ff;
-    text-align: center;
-    text-decoration: none;
-    padding: 4px;
-    width: 50%;
-    margin: 0 auto;
-    margin-right: 50%;
-    justify-content: flex-start;
-    font-family: 'Poppins', sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 17px;
-    line-height: 24px;
-    list-style: none;
+  background-color: #f4f4f5;
+  color: #6070ff;
+  text-align: center;
+  text-decoration: none;
+  padding: 4px;
+  width: 50%;
+  margin: 0 auto;
+  margin-right: 50%;
+  justify-content: flex-start;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  list-style: none;
 }
   
 .form-group .btn-input:hover {
-    background-color: #6070ff;
-    color: #fff;
-    letter-spacing: 0.03em;
-    list-style: none;
+  background-color: #6070ff;
+  color: #fff;
+  letter-spacing: 0.03em;
+  list-style: none;
 }
   
 .form-group .btn-input:active {
-    background-color: #2230d2;
-    color: #fff;
-    letter-spacing: 0.03em;
-    list-style: none;
+  background-color: #2230d2;
+  color: #fff;
+  letter-spacing: 0.03em;
+  list-style: none;
 }
   
 .form-group .btn-input:focus {
-    background-color: #13141a;
-    color: #fff;
-    letter-spacing: 0.03em;
-    list-style: none;
+  background-color: #13141a;
+  color: #fff;
+  letter-spacing: 0.03em;
+  list-style: none;
 }
   
