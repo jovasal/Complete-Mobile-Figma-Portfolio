@@ -1645,21 +1645,18 @@ hr.rounded {
   transition: transform 0.4s ease-in-out;
 }
 
-
-
-
-
-
 #consection {
-    display: flex;
-    flex-direction: column;
-    width: 375px;
-    height: 779px;
-    margin: 0 auto;
-    background: #6070ff url(../images/header1.png);
-    border-top-left-radius: 80px;
-    align-content: space-between;
-    list-style: none;
+  display: flex;
+  justify-content: start;
+  box-sizing: border-box;
+  width: 375px;
+  height: 1263px;
+  left: 375px;
+  top: 4769px;
+  background-color: #dad8d8;
+  flex: none;
+  order: 4;
+  flex-grow: 0;
 }
   
 .contain {
