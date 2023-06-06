@@ -1648,25 +1648,21 @@ hr.rounded {
 #consection {
   display: flex;
   flex-direction: column;
-  /*justify-content:space-around;*/
-  /*box-sizing: border-box;*/
+  justify-content:space-between;
+  box-sizing: border-box;
   width: 375px;
   height: 779px;
   margin: 0;
-  /*position: relative;*/
- /* padding: 50px 36px 15px 24px;*/
-  /*box-sizing: border-box;*/
-  /*margin: 0 auto;*/
+  box-sizing: border-box;
+  margin: 0 auto;
   background: url(../images/contactformshapes-mobile.png);
   background-repeat: no-repeat;
   background-position: right;
   background-color: #6070ff;
   border-top-left-radius: 80px;
-  /*list-style: none;*/
-  /*flex: none;*/
+  flex: none;
   order: 5;
   flex-grow: 0;
-  /*border-top-left-radius: 80px;*/
   align-content: space-between;
   list-style: none;
   top: 5410px;
@@ -1713,7 +1709,7 @@ hr.rounded {
   border: 1px solid hsl(198, 16%, 84%);
   list-style: none;
 }
-  
+
 .types {
   color: #172b4d;
   font-family: 'Poppins', sans-serif;
