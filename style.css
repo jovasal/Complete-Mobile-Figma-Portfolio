@@ -1649,7 +1649,6 @@ hr.rounded {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  justify-content: space-between;
   width: 375px;
   height: 779px;
   margin: 0;
