@@ -16,13 +16,13 @@ body {
   display: flex;
   flex-direction: row;
   width: 375px;
-  height: 92px;
+  height: 48px;
   justify-content: space-between;
   align-items: center;
   padding: 50px 36px 15px 24px;
   box-sizing: border-box;
   background-color: #fff;
-  order: 1;
+  order: 0;
   margin: 0;
 }
 
@@ -110,14 +110,14 @@ body {
   flex-direction: column;
   justify-content: space-between;
   width: 375px;
-  height: 718px;
+  height: 604px;
   margin: 0;
   position: relative;
   background: url(/images/header.png);
   background-color: #fff;
   background-repeat: no-repeat;
   align-items: center;
-  order: 2;
+  order: 1;
   border-bottom-left-radius: 80px;
 }
 
@@ -196,17 +196,18 @@ body.active {
   grid-template-columns: auto auto auto auto;
   background: #fff;
   flex: none;
-  order: 3;
+  order: 2;
   flex-grow: 0;
+  width: 375px;
 }
 
 .grid-container {
   display: grid;
   width: 375px;
-  height: 2600px;
+  height: 2788px;
   grid-template-rows: auto auto auto auto;
   justify-content: center;
-  align-content: space-between;
+  align-content: space-evenly;
   grid-gap: 10px;
   background-color: #e5e5e5;
   padding: 20px;
@@ -1209,17 +1210,18 @@ body.active {
   box-sizing: border-box;
   width: 375px;
   height: 1263px;
-  left: 375px;
-  top: 4769px;
-  background-color: #fff;
-  flex: none;
-  order: 4;
+  margin: 0;
+  gap: 0;
+  padding: 0;
+  background-color: #e5e5e5;
+  flex: auto;
+  order: 3;
   flex-grow: 0;
 }
 
 .head-section-co {
-  width: 326px;
-  height: 1100px;
+  width: 375px;
+  height: 1263px;
   margin: 0 auto;
   background: #fff url(./images/about-myself.png) 0 45px no-repeat;
   border-top-right-radius: 80px;
@@ -1652,7 +1654,7 @@ hr.rounded {
   background-color: #6070ff;
   border-top-left-radius: 80px;
   flex: none;
-  order: 5;
+  order: 4;
   flex-grow: 0;
   align-content: space-between;
   list-style: none;
@@ -1662,7 +1664,7 @@ hr.rounded {
 .contain {
   display: flex;
   flex-direction: column;
-  align-items: flex-end;
+  align-items: center;
   justify-content: center;
   padding: 0;
   gap: 12px;
@@ -1695,10 +1697,11 @@ hr.rounded {
   color: #fff;
   margin-top: 103px;
   list-style: none;
-  left: 0;
-  right: 0;
+  left: -213;
+  right: -213;
   top: 103px;
   justify-content: center;
+  padding-left: 24px;
 }
 
 .contact p {
@@ -1712,6 +1715,7 @@ hr.rounded {
   margin-left: 10px;
   margin-right: 10px;
   list-style: none;
+  padding-left: 24px;
 }
 
 .form {
@@ -1746,6 +1750,7 @@ hr.rounded {
   line-height: 20px;
   display: flex;
   align-items: center;
+  justify-content: center;
   font-style: normal;
   list-style: none;
 }
@@ -1758,10 +1763,8 @@ hr.rounded {
   bottom: 0;
   border-radius: 8px;
   border: 1px solid #cfd8dc;
-  width: 100%;
-  height: 38px;
+  width: 280px;
   margin-bottom: 0;
-  padding: 0;
   list-style: none;
   justify-content: stretch;
   align-items: start;
@@ -1811,7 +1814,7 @@ hr.rounded {
 }
 
 .form-group .btn-input:focus {
-  background-color: #13141a;
+  background-color: #6070ff;
   color: #fff;
   letter-spacing: 0.03em;
   list-style: none;
