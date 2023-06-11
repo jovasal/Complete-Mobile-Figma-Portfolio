@@ -1,5 +1,5 @@
-  @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
-  @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
 
 .body1 {
   display: flex;
@@ -48,12 +48,12 @@
   width: 100%;
   font-family: "Poppins", "Courier New", Courier, monospace;
 }
-  
+
 .fbackgdesk {
   background: #fff url(../images/Headerbg.png);
   background-repeat: no-repeat;
 }
- 
+
 .left-menu {
   display: flex;
   margin-left: 20px;
@@ -120,7 +120,7 @@
 
 .card {
   display: flex;
-  background: #ffffff;
+  background: #fff;
   border: 1px solid #dfe1e6;
   border-radius: 24px;
   width: 100%;
@@ -156,8 +156,7 @@
   font-weight: 700;
   font-size: 40px;
   line-height: 52px;
-  }
-
+}
 
 .card-tonic3 {
   display: flex;
@@ -258,7 +257,6 @@
   align-items: normal;
   justify-content: space-between;
   width: 100%;
-
 }
 
 .go-buttontonic {
@@ -301,7 +299,7 @@
 
 .cardaboutme {
   display: flex;
-  background: #ffffff;
+  background: #fff;
   border: 1px solid #dfe1e6;
   border-radius: 24px;
   width: 100%;
@@ -314,7 +312,7 @@
   margin-left: 50px;
 }
 
-.aboutme1{
+.aboutme1 {
   display: flex;
   flex-direction: column;
   width: 100%;
@@ -322,9 +320,9 @@
 }
 
 .aboutmy {
-font-weight: 700;
-font-size: 40px;
-line-height: 52px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
 }
 
 .buttonab {
@@ -333,7 +331,6 @@ line-height: 52px;
   align-items: normal;
   justify-items: auto;
   width: 100%;
-
 }
 
 .go-buttonab {
@@ -376,7 +373,7 @@ line-height: 52px;
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
-  margin-top: 150px; 
+  margin-top: 150px;
 }
 
 .disable1 {
@@ -396,7 +393,7 @@ line-height: 52px;
   padding: 30px 30px 30px 30px;
 }
 
-  .card-right1 {
+.card-right1 {
   display: flex;
   flex-direction: column;
   border-radius: 24px 24px 24px 24px;
@@ -407,18 +404,13 @@ line-height: 52px;
 
 .card1 {
   display: flex;
-  background: #ffffff;
+  background: #fff;
   margin-bottom: 142px;
   flex-direction: row;
   justify-content: space-between;
 }
 
-.disable1 {
-  width: 100%;
-  height: 100% ;
-}
-
-  .lenguagelist {
+.lenguagelist {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -437,7 +429,7 @@ line-height: 52px;
   flex-grow: 0;
   list-style: none;
 }
-  
+
 .ellipse {
   width: 48px;
   height: 48px;
@@ -446,7 +438,7 @@ line-height: 52px;
   margin-left: 10px;
   margin-top: 10px;
 }
-  
+
 .lanjav {
   width: 100%;
   height: 100%;
@@ -468,7 +460,7 @@ line-height: 52px;
   flex-grow: 0;
   list-style: none;
 }
-  
+
 .elihtml {
   width: 48px;
   height: 48px;
@@ -477,7 +469,7 @@ line-height: 52px;
   margin-left: 10px;
   margin-top: 10px;
 }
-  
+
 .lanhtml {
   width: 100%;
   height: 100%;
@@ -491,7 +483,7 @@ line-height: 52px;
   color: #253858;
   justify-content: center;
 }
-  
+
 .aboulcss {
   background: #f7f7f9;
   border-radius: 8px;
@@ -500,7 +492,7 @@ line-height: 52px;
   flex-grow: 0;
   list-style: none;
 }
-  
+
 .elicss {
   width: 48px;
   height: 48px;
@@ -538,7 +530,7 @@ line-height: 52px;
   list-style: none;
   margin-top: 1px;
 }
-  
+
 .wframe {
   width: 684px;
   height: 72px;
@@ -546,7 +538,7 @@ line-height: 52px;
   order: 1;
   flex-grow: 0;
 }
-  
+
 .wgramew {
   height: 24px;
   left: 24px;
@@ -561,7 +553,7 @@ line-height: 52px;
   align-items: center;
   color: #344563;
 }
-  
+
 .sepa {
   height: 1px;
   left: 0;
@@ -569,7 +561,7 @@ line-height: 52px;
   bottom: 0;
   background: #def1e6 url("images/Separator\ Bottom.png");
 }
-  
+
 .wskills {
   width: 684px;
   height: 72px;
@@ -577,7 +569,7 @@ line-height: 52px;
   order: 2;
   flex-grow: 0;
 }
-  
+
 .wskillsw {
   height: 24px;
   left: 24px;
@@ -604,7 +596,7 @@ line-height: 52px;
   background-color: #6070ff;
   border-top-left-radius: 80px;
 }
-  
+
 .contain {
   display: flex;
   flex-direction: column;
@@ -617,7 +609,7 @@ line-height: 52px;
   max-width: 920px;
   margin: auto;
 }
-  
+
 .contact {
   display: flex;
   flex-direction: column;
@@ -630,7 +622,7 @@ line-height: 52px;
   width: 100%;
   height: 100%;
 }
-  
+
 .contact h1 {
   font-family: "Poppins", sans-serif;
   font-style: normal;
@@ -647,7 +639,7 @@ line-height: 52px;
   order: 0;
   flex-grow: 0;
 }
-  
+
 .contact p {
   font-family: "Poppins", sans-serif;
   font-style: normal;
@@ -661,7 +653,7 @@ line-height: 52px;
   order: 1;
   flex-grow: 0;
 }
-  
+
 .form {
   display: flex;
   flex-direction: column;
@@ -676,7 +668,7 @@ line-height: 52px;
   order: 2;
   flex-grow: 0;
 }
-  
+
 #textarea {
   background: #fff;
   width: 100%;
@@ -687,7 +679,7 @@ line-height: 52px;
   list-style: none;
   position: absolute;
 }
-  
+
 .types {
   color: #172b4d;
   font-family: "Poppins", sans-serif;
@@ -700,7 +692,7 @@ line-height: 52px;
   justify-content: center;
   list-style: none;
 }
-  
+
 .form-group input {
   background-color: #fff;
   border-radius: 2px;
@@ -710,13 +702,13 @@ line-height: 52px;
   justify-content: stretch;
   align-items: start;
 }
-  
+
 .form-group textarea {
   background-color: #fff;
   margin-bottom: 4px;
   list-style: none;
 }
-  
+
 .form-group .btn-input {
   background-color: #f4f4f5;
   color: #6070ff;
@@ -732,30 +724,29 @@ line-height: 52px;
   list-style: none;
   border-radius: 8px;
 }
-  
+
 .form-group .btn-input:hover {
   background-color: #6070ff;
   color: #fff;
   letter-spacing: 0.03em;
   list-style: none;
 }
-  
+
 .form-group .btn-input:active {
   background-color: #2230d2;
   color: #fff;
   letter-spacing: 0.03em;
   list-style: none;
 }
-  
+
 .form-group .btn-input:focus {
   background-color: #6070ff;
   color: #fff;
   letter-spacing: 0.03em;
   list-style: none;
 }
-  
-@media only screen and (max-width: 768px) {
 
+@media only screen and (max-width: 768px) {
   .banner-container {
     width: 100%;
     padding: 0 20px 0 20px;
@@ -767,7 +758,7 @@ line-height: 52px;
 
   .social-links {
     justify-content: space-between;
-    width: 50%;
+    width: 100%;
   }
 
   .card {
@@ -778,10 +769,10 @@ line-height: 52px;
     width: 100%;
   }
 
-    .card-right {
+  .card-right {
     width: 100%;
   }
-  
+
   .right-menu {
     display: none;
   }
@@ -801,19 +792,12 @@ line-height: 52px;
     transition: all 0.03s ease-in-out;
   }
 
-  .social-links {
-    width: 80%;
-  }
-
   .banner {
     height: 100%;
     margin-top: 130px;
     margin-bottom: 130px;
   }
 
-  .social-links {
-    width: 100%;
-  }
   .card1 {
     flex-direction: column;
   }
