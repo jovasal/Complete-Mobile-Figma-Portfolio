@@ -8,7 +8,7 @@ body {
   align-content: stretch;
   box-sizing: border-box;
   width: 375px;
-  height: 5400px;
+  height: 5700px;
   margin: auto;
   background-color: #e5e5e5;
 }
@@ -134,7 +134,7 @@ body.active {
   order: 0;
   width: 327px;
   height: 150px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-size: 40px;
   font-weight: 700;
@@ -273,7 +273,7 @@ body.active {
 .tonic {
   width: 295px;
   height: 36px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -305,7 +305,7 @@ body.active {
   flex-grow: 0;
   width: 55px;
   height: 16px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 13px;
@@ -322,7 +322,7 @@ body.active {
   flex-grow: 0;
   width: 88px;
   height: 16px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 13px;
@@ -336,7 +336,7 @@ body.active {
   flex-grow: 0;
   width: 29px;
   height: 16px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 13px;
@@ -366,7 +366,7 @@ body.active {
   flex-grow: 0;
   width: 295px;
   height: 76;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -374,7 +374,7 @@ body.active {
 }
 
 .adayl_p {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -415,7 +415,7 @@ body.active {
   bottom: 100px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -441,7 +441,7 @@ body.active {
   bottom: 228px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -467,7 +467,7 @@ body.active {
   bottom: 228px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -502,7 +502,7 @@ body.active {
   top: calc(50% - 48px / 2);
   letter-spacing: 0.03em;
   border: solid #396df2;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 13px;
@@ -579,7 +579,7 @@ body.active {
 .multi {
   width: 295px;
   height: 80px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -597,7 +597,7 @@ body.active {
   flex-grow: 0;
   width: 295px;
   height: 76;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -605,7 +605,7 @@ body.active {
 }
 
 .adaylp {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -643,7 +643,7 @@ body.active {
   bottom: 100px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -669,7 +669,7 @@ body.active {
   bottom: 228px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -695,7 +695,7 @@ body.active {
   bottom: 228px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -730,7 +730,7 @@ body.active {
   top: calc(50% - 48px / 2);
   letter-spacing: 0.03em;
   border: solid #396df2;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 13px;
@@ -807,7 +807,7 @@ body.active {
 .tonic1 {
   width: 295px;
   height: 36px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -825,7 +825,7 @@ body.active {
   flex-grow: 0;
   width: 295px;
   height: 76;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -833,7 +833,7 @@ body.active {
 }
 
 .adayca_p {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -871,7 +871,7 @@ body.active {
   bottom: 100px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -897,7 +897,7 @@ body.active {
   bottom: 228px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -923,7 +923,7 @@ body.active {
   bottom: 228px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -1034,7 +1034,7 @@ body.active {
 .multi4 {
   width: 295px;
   height: 80px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -1052,7 +1052,7 @@ body.active {
   flex-grow: 0;
   width: 295px;
   height: 76;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -1060,7 +1060,7 @@ body.active {
 }
 
 .aday4_P {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -1098,7 +1098,7 @@ body.active {
   bottom: 100px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -1124,7 +1124,7 @@ body.active {
   bottom: 228px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -1150,7 +1150,7 @@ body.active {
   bottom: 228px;
   list-style: none;
   color: #6070ff;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
@@ -1185,7 +1185,7 @@ body.active {
   top: calc(50% - 48px / 2);
   letter-spacing: 0.03em;
   border: solid #396df2;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 13px;
@@ -1211,7 +1211,7 @@ body.active {
 /*  height: 1263px;**/
 /*  left: 375px;*/
 /*  top: 4769px;*/
-  background-color: #dad8d8;
+  background-color: #e5e5e5;
   flex: none;
   order: 4;
   flex-grow: 0;
@@ -1219,8 +1219,8 @@ margin-top: 0;
 }
 
 .head-section-co {
-/*  width: 375px;*/
- /* height: 1263px;*/
+  width: 100%;
+  height: 1263px;
   margin: 0 auto;
   background: #fff url(./images/about-myself.png) 0 45px no-repeat;
   border-top-right-radius: 80px;
@@ -1236,40 +1236,44 @@ margin-top: 0;
 }
 
 .head-co {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 40px;
   font-weight: 700;
   line-height: 52px;
   color: #172b4d;
   padding: 50px 0 0;
-  margin-top: 114px;
+  margin-top: 100px;
   margin-left: 24px;
   font-style: normal;
+  align-items: center;
+  justify-content: center;
 }
 
 .description-co {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
   font-size: 16px;
   line-height: 24px;
   color: #344563;
-  margin: 12px 0;
+  margin: 0 24px 0 24px;
 }
 
 .connect-co {
-  font-family: "Poppins", sans-serif;
-  font-size: 16px;
+  font-family: 'Poppins', sans-serif;
   font-weight: 500;
-  margin-bottom: 12px;
+  font-size: 16px;
+  line-height: 24px;
   color: #7f8cff;
+  margin: 12px 0 0 24px;
 }
 
 .social-media-icons-co {
   display: flex;
   justify-content: space-between;
   width: 160px;
-  padding-left: 0;
   list-style-type: none;
   animation: width-change 1s ease-in-out 0.5s 1;
+  margin: 26px 0 0 35px;
 }
 
 @keyframes width-change {
@@ -1295,20 +1299,21 @@ margin-top: 0;
 .new-code {
   width: 295px;
   height: 72px;
-  top: 216px;
+  margin: 22px 0 0 24px;
+  list-style: none;
 }
 
 .go-newmes {
   box-sizing: border-box;
   align-items: center;
   padding: 12px;
-  width: 140px;
+  width: 162px;
   height: 48px;
   top: calc(50% - 48px / 2);
   border: 1px solid #6070ff;
   border-radius: 8px;
   background-color: #fff;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
@@ -1344,20 +1349,18 @@ margin-top: 0;
 
 .event7 {
   box-sizing: border-box;
-  width: 327px;
+  width: 100%;
   height: 72px;
-  padding: 0;
-  margin-left: -25px;
+  list-style: none;
   display: flex;
   gap: 80px;
-  list-style-type: none;
 }
 
 .event7 h3 {
   height: 24px;
   right: 78px;
   top: calc(50% - 24px / 2);
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 20px;
@@ -1381,6 +1384,8 @@ margin-top: 0;
   color: white;
   background-color: #fff;
   cursor: pointer;
+  gap: 60px;
+  margin: 0 66px 0 26px;
 }
 
 .dropdown:hover {
@@ -1391,16 +1396,7 @@ margin-top: 0;
 .language-list {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
-  justify-content: center;
-  padding: 0;
   gap: 12px;
-  width: 327px;
-  height: 248.15px;
-  top: 72px;
-  margin-top: -40px;
-  margin-left: -24px;
-  box-sizing: border-box;
 }
 
 .JavaScript1 {
@@ -1429,7 +1425,7 @@ margin-top: 0;
   left: 76px;
   right: 12px;
   top: calc(50% - 24px / 2 - 0.36px);
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 15px;
@@ -1498,16 +1494,19 @@ margin-top: 0;
 }
 
 .event18 {
-  box-sizing: border-box;
-  width: 327px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  gap:100px;
+  width: 100%;
   height: 72px;
-  padding: 0 24px;
-  margin-left: -16px;
   display: flex;
   align-items: initial;
-  gap: 80px;
-  margin-top: -10px;
   border-bottom: 1px solid rgb(223, 225, 230);
+}
+
+.mitt {
+  height: 70px;
 }
 
 .event18 h3,
@@ -1518,21 +1517,19 @@ margin-top: 0;
   margin-left: 18px;
   box-sizing: border-box;
   text-decoration: none;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 20px;
   line-height: 24px;
   color: #000;
-
-  /* display: flex; */
   align-items: center;
 }
 
 .event17 a h3,
 .event18 a h3 {
   top: calc(50% - 24px / 2);
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -1575,20 +1572,6 @@ margin-top: 0;
   margin-left: 10px;
   margin-right: 10px;
   text-align: center;
-}
-
-form input {
-  background: white;
-  padding: 8px;
-  border-radius: 8px;
-}
-
-form textarea {
-  background: hsl(0, 0%, 100%);
-  width: 200px;
-  height: 170px;
-  padding: 10px;
-  border: 1px solid hsl(198, 16%, 84%);
 }
 
 #username {
@@ -1640,7 +1623,7 @@ hr.rounded {
   border: 1px solid #6070ff;
   border-radius: 8px;
   background-color: #fff;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
@@ -1653,12 +1636,7 @@ hr.rounded {
 #consection {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
- /* width: 375px;*/
-/*  height: 779px;*/
-  margin: 0;
-  box-sizing: border-box;
-  background: url(../images/contactformshapes-mobile.png);
+  background: url(../images/contactformshapes.png);
   background-repeat: no-repeat;
   background-position: right;
   background-color: #6070ff;
@@ -1666,19 +1644,15 @@ hr.rounded {
   flex: none;
   order: 5;
   flex-grow: 0;
-  align-content: space-between;
-  list-style: none;
-  top: 5410px;
+  align-content: center;
 }
 
 .contact {
   margin: 103px 24px 0 24px;
-  border-radius: 50px 0 0 0;
   list-style: none;
-  padding-left: 24px;
 }
 
-#h2 {
+#h1 {
   font-family: 'Poppins', sans-serif;
   color: white;
   margin-top: 40px;
@@ -1686,31 +1660,53 @@ hr.rounded {
   list-style: none;
 }
 
-.contact p {
+.contact h1 {
+  display: flex;
   font-family: 'Poppins', sans-serif;
   color: #fff;
-  margin-left: 10px;
-  margin-right: 10px;
-  text-align: center;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 52px;
   list-style: none;
+  justify-content: center;
+}
+
+.contact p {
+  display: flex;
+  font-family: 'Poppins', sans-serif;
+  color: #fff;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  justify-content: center;
 }
 
 .form {
   display: flex;
   flex-direction: column;
-  margin-top: 52px;
-  margin-bottom: 0;
-  gap: 20px;
   list-style: none;
+  align-items: start;
 }
 
-#textarea {
+form input {
+  background: #fff;
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid #cfd8dc;
+
+}
+
+form textarea {
+  display: flex;
+  justify-content: center;
   background: hsl(0, 0%, 100%);
-  width: 200px;
+  width: 255px;
   height: 170px;
-  padding: 10px;
+  padding: 8px;
   border: 1px solid hsl(198, 16%, 84%);
-  list-style: none;
+  margin-top: 8px;
 }
 
 .types {
@@ -1725,20 +1721,15 @@ hr.rounded {
 
 .form-group input {
   background-color: #fff;
-  border-radius: 1px;
+  border-radius: 8px;
   border: 1px solid #cfd8dc;
-  width: 90%;
-  height: 48px;
-  margin-bottom: 12px;
-  padding: 10px;
-  list-style: none;
+  margin: 0 20px 0 20px;
 }
 
 .form-group textarea {
   background-color: #fff;
   border-radius: 8px;
   border: none;
-  width: 90%;
   height: 140px;
   margin-bottom: 4px;
   padding: 10px;
@@ -1746,12 +1737,14 @@ hr.rounded {
 }
 
 .form-group .btn-input {
+  display: flex;
+  justify-content: start;
   background-color: #f4f4f5;
   color: #6070ff;
-  text-align: center;
+  text-align: start;
   text-decoration: none;
   padding: 4px;
-  width: 50%;
+  width: 100%;
   margin: 0 auto;
   margin-right: 50%;
   justify-content: flex-start;
