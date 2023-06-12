@@ -1,7 +1,5 @@
 <a name="readme-top"></a>
 
-<div>
-  
   <h3><b>Microverse README Template</b></h3>
 
 </div>
@@ -14,27 +12,35 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
   - [Setup](#setup)
-    - [👥 Authors](#authors)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Figma-portfolio] <a name="about-project"></a>
+# 📖 [My Portfolio] <a name="about-project"></a>
 
-> This is my first FIGMA project in Microverse with 2 first section.
-
-FIGMA template is Template 1
-
-**[Figma-portfolio]**
+> **[My portfolio]** This is my Portfolio that show my advance in CCS ans HTML
 
 ## 🛠 Built With <a name="built-with"></a>
 
+This profolio use HTML and CSS
+
 ### Tech Stack <a name="tech-stack"></a>
 
-> This project were made with HTML and CSS.
+> 
 
 <details>
   <summary>Client</summary>
@@ -56,32 +62,87 @@ FIGMA template is Template 1
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-> Learning
-- **[key_feature_2]**
-> Aplication
-- **[key_feature_3]**
-> Develop
+- **Fast learning**
+- **Check aplication in HTML and CSS**
+- **Develop my knowledges**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+Comming Soon
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+>  COMMING SOON [Add a link to your deployed project.](https://github.com/jovasal/Complete-Mobile-Figma-Portfolio.git)
+
+- [Live Demo Link](https://google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
+This project is a develop using FIGMA templates
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> This project is a develop using FIGMA templates
+> Describe how a new developer could make use of your project.
+
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
 
-<Knowledge in HTML and CSS
-           
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
+
 ### Setup
 
-Yoy can use this repository ising the following steps:
-           
-           1. Clone a repository from www.github.com You can use the follonig link directly to the repository:
+Clone this repository to your desired folder:
+
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
+
+### Install
+
+Install this project with:
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+### Usage
+
+To run the project, execute the following command:
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+### Run tests
+
+To run tests, run the following command:
+
+1. Clone a repository from www.github.com You can use the follonig link directly to the repository:
            https://github.com/jovasal/Figma-portfolio.git
            
            2.Clone this repository to your desired folder:
@@ -98,6 +159,29 @@ Yoy can use this repository ising the following steps:
            
            Finaly, you can use as a reference for your future codes.
 
+### Deployment
+
+You can deploy this project using:
+
+1. Clone a repository from www.github.com You can use the follonig link directly to the repository:
+           https://github.com/jovasal/Figma-portfolio.git
+           
+           2.Clone this repository to your desired folder:
+           
+           Example commands:
+           ```sh
+           cd my-folder
+           git clone https://github.com/jovasal/Figma-portfolio.git
+           ```
+           
+           If you prefer to download without commands, tin the link, 
+           you can press <> Code button, choose Local and then Download.zip. 
+           Remember to extrat in your faverite part of your computer.
+           
+           Finaly, you can use as a reference for your future codes.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -112,11 +196,41 @@ Yoy can use this repository ising the following steps:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[Thecnologies]**
+- [ ] **[Advance]**
+- [ ] **[New projects]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Thank you so much to Miroverse course and FIGMA
+Thank you so much to Microverse
+
+https://www.microverse.org/
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+COMMING SOON!
+
+## ⭐️ Show your support <a name="support"></a>
+
+cOMMING SOON!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank to MICROVERSE and FIGMA
 
 https://www.microverse.org/es/inicio
 
@@ -131,3 +245,4 @@ https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?t
 This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
