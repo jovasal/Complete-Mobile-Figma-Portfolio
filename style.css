@@ -8,14 +8,15 @@ body {
   align-content: stretch;
   box-sizing: border-box;
   width: 375px;
-  height: 6000px;
+  height: 5400px;
   margin: auto;
+  background-color: #e5e5e5;
 }
 
 .header {
   display: flex;
   flex-direction: row;
-  width: 375px;
+  width: 100%;
   height: 92px;
   justify-content: space-between;
   align-items: center;
@@ -66,6 +67,7 @@ body {
 }
 
 
+
 .bar {
   display: block;
   width: 25px;
@@ -104,9 +106,10 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  width: 375px;
+  width: 100%;
   height: 718px;
-  margin: 0;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
   position: relative;
   background: url(/images/header.png);
   background-color: #fff;
@@ -183,13 +186,14 @@ body.active {
 
 .secpa {
   display: flex;
+  width: 100%;
   flex-direction: column;
   justify-content: space-between;
   align-content: stretch;
   box-sizing: border-box;
   align-items: center;
   grid-template-columns: auto auto auto auto;
-  background: #fff;
+  background: #e5e5e5;
   flex: none;
   order: 3;
   flex-grow: 0;
@@ -378,6 +382,7 @@ body.active {
 }
 
 .botonic {
+  float: inherit;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -764,7 +769,7 @@ body.active {
 .toni {
   width: 295px;
   height: 220px;
-  background: url("./images/toni.png");
+  background: url("./images/snap3.png");
   border-radius: 8px;
   flex: none;
   top: 16px;
@@ -991,7 +996,7 @@ body.active {
 .mult {
   width: 295px;
   height: 220px;
-  background: url("./images/mult.png");
+  background: url("./images/snap4.png");
   border-radius: 8px;
   flex: none;
   top: 16px;
@@ -1202,23 +1207,28 @@ body.active {
   display: flex;
   justify-content: start;
   box-sizing: border-box;
-  width: 375px;
-  height: 1263px;
-  left: 375px;
-  top: 4769px;
+/*  width: 375px;*/
+/*  height: 1263px;**/
+/*  left: 375px;*/
+/*  top: 4769px;*/
   background-color: #dad8d8;
   flex: none;
   order: 4;
   flex-grow: 0;
+margin-top: 0;
 }
 
 .head-section-co {
-  width: 326px;
-  height: 1100px;
+/*  width: 375px;*/
+ /* height: 1263px;*/
   margin: 0 auto;
   background: #fff url(./images/about-myself.png) 0 45px no-repeat;
   border-top-right-radius: 80px;
   margin-top: 80px;
+}
+
+.head-container {
+  width: 100%;
 }
 
 #head-section-co.active {
@@ -1232,8 +1242,8 @@ body.active {
   line-height: 52px;
   color: #172b4d;
   padding: 50px 0 0;
-  margin-top: -35px;
-  margin-bottom: 18px;
+  margin-top: 114px;
+  margin-left: 24px;
   font-style: normal;
 }
 
@@ -1644,8 +1654,8 @@ hr.rounded {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  width: 375px;
-  height: 779px;
+ /* width: 375px;*/
+/*  height: 779px;*/
   margin: 0;
   box-sizing: border-box;
   background: url(../images/contactformshapes-mobile.png);
