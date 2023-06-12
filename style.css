@@ -66,8 +66,6 @@ body {
   cursor: pointer;
 }
 
-
-
 .bar {
   display: block;
   width: 25px;
@@ -1207,15 +1205,11 @@ body.active {
   display: flex;
   justify-content: start;
   box-sizing: border-box;
-/*  width: 375px;*/
-/*  height: 1263px;**/
-/*  left: 375px;*/
-/*  top: 4769px;*/
   background-color: #e5e5e5;
   flex: none;
   order: 4;
   flex-grow: 0;
-margin-top: 0;
+  margin-top: 0;
 }
 
 .head-section-co {
@@ -1497,10 +1491,9 @@ margin-top: 0;
   display: flex;
   flex-direction: row;
   justify-content: start;
-  gap:100px;
+  gap: 100px;
   width: 100%;
   height: 72px;
-  display: flex;
   align-items: initial;
   border-bottom: 1px solid rgb(223, 225, 230);
 }
@@ -1695,7 +1688,6 @@ form input {
   padding: 8px;
   border-radius: 8px;
   border: 1px solid #cfd8dc;
-
 }
 
 form textarea {
@@ -1747,7 +1739,6 @@ form textarea {
   width: 100%;
   margin: 0 auto;
   margin-right: 50%;
-  justify-content: flex-start;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
