@@ -1637,6 +1637,7 @@ hr.rounded {
   margin-top: 40px;
   text-align: center;
   list-style: none;
+  text-align: center;
 }
 
 .contact h1 {
@@ -1649,6 +1650,7 @@ hr.rounded {
   line-height: 52px;
   list-style: none;
   justify-content: center;
+  text-align: center;
 }
 
 .contact p {
