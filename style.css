@@ -1614,13 +1614,12 @@ hr.rounded {
 }
 
 #consection {
-  display: flex;
-  flex-direction: column;
   background: url(../images/contactformshapes.png);
   background-repeat: no-repeat;
   background-position: right;
   background-color: #6070ff;
   border-top-left-radius: 80px;
+  height: 800px;
   flex: none;
   order: 5;
   flex-grow: 0;
@@ -1628,7 +1627,7 @@ hr.rounded {
 }
 
 .contact {
-  margin: 70px 10px 0 10px;
+  margin: 100px 10px 0 10px;
   list-style: none;
 }
 
@@ -1658,21 +1657,22 @@ hr.rounded {
   color: #fff;
   font-style: normal;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 16 px;
   line-height: 28px;
   justify-content: center;
+  align-items: center;
 }
 
 
 
 #email {
-  margin-top: 10px;
+  margin-top: 20px;
   width: 400px;
   height: 38px;
 }
 
 #name {
-  margin-top: 10px;
+  margin-top: 20px;
   width: 400px;
   height: 38px;
 }
@@ -1702,7 +1702,7 @@ form textarea {
   height: 170px;
   padding: 8px;
   border: 1px solid hsl(198, 16%, 84%);
-  margin-top: 8px;
+  margin-top: 20px;
   margin-left: 18px;
   align-items: center;
 }
@@ -1721,7 +1721,7 @@ form textarea {
   background-color: #fff;
   border-radius: 8px;
   border: 1px solid #cfd8dc;
-  margin: 0 20px 0 20px;
+  margin: 30px 20px 0 20px;
 }
 
 .form-group textarea {
@@ -1739,12 +1739,8 @@ form textarea {
   justify-content: start;
   background-color: #f4f4f5;
   color: #6070ff;
-  text-align: start;
   text-decoration: none;
-  padding: 4px;
   width: 100%;
-  margin: 0 auto;
-  margin-right: 50%;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
