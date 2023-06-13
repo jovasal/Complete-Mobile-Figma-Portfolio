@@ -1567,19 +1567,6 @@ body.active {
   text-align: center;
 }
 
-#username {
-  margin-left: 20px;
-  margin-right: 20px;
-  width: 80%;
-}
-
-#email {
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-top: 20px;
-  width: 80%;
-}
-
 #detail {
   margin-left: 20px;
   margin-right: 20px;
@@ -1641,7 +1628,7 @@ hr.rounded {
 }
 
 .contact {
-  margin: 103px 24px 0 24px;
+  margin: 70px 10px 0 10px;
   list-style: none;
 }
 
@@ -1676,11 +1663,28 @@ hr.rounded {
   justify-content: center;
 }
 
+
+
+#email {
+  margin-top: 10px;
+  width: 400px;
+  height: 38px;
+}
+
+#name {
+  margin-top: 10px;
+  width: 400px;
+  height: 38px;
+}
+
 .form {
   display: flex;
   flex-direction: column;
   list-style: none;
   align-items: start;
+  margin: 0 0 0 0;
+  align-items: start;
+  width: 100%;
 }
 
 form input {
@@ -1694,11 +1698,13 @@ form textarea {
   display: flex;
   justify-content: center;
   background: hsl(0, 0%, 100%);
-  width: 255px;
+  width: 400px;
   height: 170px;
   padding: 8px;
   border: 1px solid hsl(198, 16%, 84%);
   margin-top: 8px;
+  margin-left: 18px;
+  align-items: center;
 }
 
 .types {
